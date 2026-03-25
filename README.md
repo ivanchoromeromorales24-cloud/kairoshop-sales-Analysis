@@ -19,7 +19,7 @@ The goal is to transform raw data into actionable business insights that support
 
 ## Tools Used
 
-* Excel
+* Microsoft Excel
 * SQL
 * Power BI
 
