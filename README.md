@@ -77,7 +77,8 @@ This project demonstrates how data analysis can support business decisions in a 
 
 ## Author
 
-Ivan Romero
+Ivan Romero. 
+
 Aspiring Data Analyst
 
 ---
